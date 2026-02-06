@@ -1,1 +1,1 @@
-Feature: login for activity-1
+Login feature for activity-1
